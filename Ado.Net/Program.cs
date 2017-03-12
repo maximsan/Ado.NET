@@ -31,6 +31,7 @@ namespace Ado.Net
                 //pr.ReadData();
                 //pr.ReadData2();
                 pr.ExecStoredProcedure();
+                Console.ReadKey();
             }
             catch(Exception ex)
             {
