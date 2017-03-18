@@ -67,5 +67,6 @@
     <Build Include="dbo\Tables\Authors.sql" />
     <Build Include="dbo\Tables\Books.sql" />
     <Build Include="dbo\Stored Procedures\getBooksNumber.sql" />
+    <Build Include="Gruppa.sql" />
   </ItemGroup>
 </Project>
